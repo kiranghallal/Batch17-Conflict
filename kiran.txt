@@ -1,4 +1,10 @@
 Hello Kiran How  are you 
 when are you coming to pune.
+<<<<<<< HEAD
 Hello kiran How are you Hello Kiran How are you ,
 when you are coming to punewhen are you coming pune.
+=======
+Hello kiran How are you ,
+when you are coming to pune.
+1)this is conflict1 change the code
+>>>>>>> e0d4519 (this is developer changes)
